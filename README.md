@@ -1,6 +1,8 @@
 ## Hi there 👋
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vx-daniel?cardType=github&theme=tokyonight)](https://git.io/awesome-stats-card)
 <!--
+[![GitHub Streak](https://streak-stats.demolab.com?user=vx-daniel&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 **vx-daniel/vx-daniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
